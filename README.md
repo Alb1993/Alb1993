@@ -14,6 +14,7 @@ todo lo que he aprendido en mi Formacion Academica.
  - JavaScript
  - Prestashop
  - Firebase
+ - Progress 4GL
 
 ## Aptitudes:
  - Autonomia
