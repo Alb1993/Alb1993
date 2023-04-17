@@ -8,7 +8,7 @@ todo lo que he aprendido en mi Formacion Academica.
  - Java
  - Kotlin
  - MySQL
- - HTML
+ - HTML()[https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white]
  - CSS
  - PHP
  - JavaScript
