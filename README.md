@@ -6,7 +6,7 @@ todo lo que he aprendido en mi Formacion Academica.
 
 ## Conocimientos:
  - Java
- - Kotlin
+ - [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
  - MySQL
  - [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
  - [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
