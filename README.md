@@ -9,7 +9,7 @@ todo lo que he aprendido en mi Formacion Academica.
  - Kotlin
  - MySQL
  - [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
- - [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
+ - [![CSS]([https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white])]()
  - PHP
  - JavaScript
  - Prestashop
