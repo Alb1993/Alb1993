@@ -5,7 +5,7 @@ En mi último empleo, destaque por mi responsabilidad, compromiso y responsabili
 todo lo que he aprendido en mi Formacion Academica.
 
 ## Conocimientos:
- - Java
+ - [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
  - [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
  - MySQL
  - [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
