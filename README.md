@@ -27,7 +27,3 @@ todo lo que he aprendido en mi Formacion Academica.
 
 ## Quieres hablar? Contactame
 -[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
--
--
--
--
